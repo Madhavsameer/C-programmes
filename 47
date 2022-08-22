@@ -1,0 +1,6 @@
+int arr[4][5];
+float marks[5][2];
+char ch[4][6];
+
+// define just the number of columns and not rows
+int arrrr[][3];
